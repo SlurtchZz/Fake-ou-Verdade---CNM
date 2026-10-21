@@ -1,2 +1,1 @@
-# Fake-ou-Verdade---CNM
-aaaaaa
+# ESTE É SÓ UM TRABALHO DE ESCOLA, NÃO LEVE A SERIO
