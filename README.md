@@ -1,3 +1,5 @@
-# SITE CNM FAKE OU FATO
+# SITE CNM FAKE OU VERDADE
 
-### Site criado para a feira cultural
+### Site criado para a feira cultural, do Colegio Nova Meta™
+
+### Favor não modificar
