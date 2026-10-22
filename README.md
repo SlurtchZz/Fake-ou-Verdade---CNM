@@ -1,1 +1,3 @@
-# ESTE É SÓ UM TRABALHO DE ESCOLA, NÃO LEVE A SERIO
+# SITE CNM FAKE OU FATO
+
+### Site criado para a feira cultural
